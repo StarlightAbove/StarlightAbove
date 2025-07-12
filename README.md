@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 I am currently a summer student and data analyst for cancer research data, mainly in the realm of methylation data and copy-number variation and its relations to leiomyosarcoma, and widely sarcomas and cancers in general. I am also interested in wider genetics and personalized therapeutics, especially in trauma cases and xenotransplantation, and am always looking to gain some experience in that realm!
 
 I speak both English and French, so you are welcome to reach out to me in either language.
-You can always contact me at eliza.kishan (at) mail.mcgill.ca.
+You can always contact me at [eliza.kishan (at) mail.mcgill.ca](mailto:eliza.kishan@mail.mcgill.ca).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liz_kishan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/eliza-kishan) 
