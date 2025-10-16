@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ### BSc Computer Science & Biology '27, McGill University
 ### [Volunteer Research Analyst, Przybyl Lab, Research Institute @ the McGill University Health Center](https://przybyl.lab.mcgill.ca/Lab-Members.html)
 
-I am currently a summer student and data analyst for cancer research data, mainly in the realm of methylation data and copy-number variation and its relations to leiomyosarcoma, and widely sarcomas and cancers in general. I am also interested in wider genetics and personalized therapeutics, especially in trauma cases and xenotransplantation, and am always looking to gain some experience in that realm!
+I am currently a undergraduate trainee and data analyst for cancer research data, mainly in the realm of methylation data and copy-number variation and its relations to leiomyosarcoma, and widely sarcomas and cancers in general. I am also interested in wider genetics and personalized therapeutics, especially in trauma cases and xenotransplantation, and am always looking to gain some experience in that realm!
 
 I speak both English and French, so you are welcome to reach out to me in either language.
 You can always contact me at [eliza.kishan (at) mail.mcgill.ca](mailto:eliza.kishan@mail.mcgill.ca).
