@@ -16,6 +16,7 @@ I'm a bioinformatics researcher passionate about leveraging computational method
 
 💼 **Open to Opportunities:**
 I'm seeking new opportunities starting May 2026 in bioinformatics, computational biology, or machine learning research roles.
+📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)**
 
 ---
 
