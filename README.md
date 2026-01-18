@@ -2,7 +2,7 @@
 
 **Undergraduate Research Trainee** | Przybyl Lab, Research Institute of the McGill University Health Center
 
-I'm a bioinformatics researcher passionate about leveraging computational methods to advance our understanding of genomic variation. Currently, I'm investigating the use of methylation data for calling copy number variations (CNVs) and characterizing algorithmic performance—bridging the gap between molecular biology and machine learning.
+I'm a undergraduate bioinformatics researcher passionate about leveraging computational methods to advance our understanding of genomic variation. Currently, I'm investigating the use of methylation data for calling copy number variations (CNVs) and characterizing algorithmic performance, using leiomyoma and leiomyosarcoma as model cancers to determine focal vs wide-ranging CNV responses.
 
 🔬 **What I Do:**
 - Research at the intersection of bioinformatics, statistics, and machine learning
@@ -15,7 +15,7 @@ I'm a bioinformatics researcher passionate about leveraging computational method
 - Software engineering best practices for reproducible research
 
 💼 **Open to Opportunities:**
-I'm seeking new opportunities starting May 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
+Seeking undergraduate research (with stipend), summer programs, or thesis opportunities starting May 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
 
 📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)**
 
@@ -36,7 +36,7 @@ I'm eager to explore opportunities that combine computational biology, machine l
 ## 🧬 Featured Projects
 
 **[StarlightAbove/Analysis](https://github.com/StarlightAbove/Analysis)**  
-A research project for algorithm characterization used to call CNVs using methylation data.
+A research project for algorithm characterization used to call CNVs using methylation data, supervised by Dr. Joanna Przybyl at the Przybyl Lab.
 
 **[StarlightAbove/bioget](https://github.com/StarlightAbove/bioget)**   
 An unified API to access biological databases, such as ENTREZ, Ensembl, CHEMDB, and others.
