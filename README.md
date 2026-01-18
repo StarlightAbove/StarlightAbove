@@ -18,6 +18,7 @@ I'm a bioinformatics researcher passionate about leveraging computational method
 I'm seeking new opportunities starting May 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
 
 📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)**
+
 ---
 ## 🔬 Research Interests
 
@@ -29,6 +30,7 @@ My current work focuses on leveraging methylation data for copy number variation
 - **Machine Learning in Genomics** - Developing robust algorithms for analyzing complex biological datasets
 
 I'm eager to explore opportunities that combine computational biology, machine learning, and applications with direct clinical or therapeutic impact.
+
 ---
 
 ## 🧬 Featured Project
