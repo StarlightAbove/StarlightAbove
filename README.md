@@ -63,7 +63,7 @@ Machine Learning • Statistical Analysis • Bioinformatics • Genomic Data An
 
 - I've been an avid D&D player for 5 years—always ready to roll for initiative!
 - My favorite video games are Civ 6 and Cyberpunk 2077
-- **Book recommendation:** *The Egg* by Andy Weir—a short story everyone should read
+- **Literature recommendation:** *The Egg* by Andy Weir—a short story everyone should read
 
 ---
 
