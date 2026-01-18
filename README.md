@@ -55,7 +55,7 @@ Machine Learning • Statistical Analysis • Bioinformatics • Genomic Data An
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=c9d1d9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
