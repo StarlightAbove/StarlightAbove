@@ -1,35 +1,62 @@
+# Hi there, I'm Eliza Kishan 👋
 
-<!--
-**StarlightAbove/StarlightAbove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Research Trainee** | Przybyl Lab, Research Institute of the McGill University Health Center
 
-Here are some ideas to get you started:
--->
-# Eliza Kishan (she/her)
-### BSc Computer Science & Biology '27, McGill University
-### [Undergraduate Research Analyst, Przybyl Lab, Research Institute @ the McGill University Health Center](https://przybyl.lab.mcgill.ca/Lab-Members.html)
+I'm a bioinformatics researcher passionate about leveraging computational methods to advance our understanding of genomic variation. Currently, I'm investigating the use of methylation data for calling copy number variations (CNVs) and characterizing algorithmic performance—bridging the gap between molecular biology and machine learning.
 
-I am currently a undergraduate trainee and data analyst for cancer research data, mainly in the realm of methylation data and copy-number variation and its relations to leiomyosarcoma, and widely sarcomas and cancers in general. I am also interested in wider genetics and personalized therapeutics, especially in trauma cases and xenotransplantation, and am always looking to gain some experience in that realm!
+🔬 **What I Do:**
+- Research at the intersection of bioinformatics, statistics, and machine learning
+- Develop and evaluate computational approaches for genomic analysis
+- Work with large-scale biological datasets using R, Python, C++, and Java
 
-I speak both English and French, so you are welcome to reach out to me in either language.
-You can always contact me at [eliza.kishan (at) mail.mcgill.ca](mailto:eliza.kishan@mail.mcgill.ca).
+🌱 **Currently Exploring:**
+- Wet lab research techniques to complement my computational work
+- Bioinformatics challenges via Rosalind
+- Software engineering best practices for reproducible research
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liz_kishan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/eliza-kishan) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StarlightAbove&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StarlightAbove&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💼 **Open to Opportunities:**
+I'm seeking new opportunities starting May 2026 in bioinformatics, computational biology, or machine learning research roles.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=StarlightAbove&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 Featured Project
+
+**[StarlightAbove/Analysis](https://github.com/StarlightAbove/Analysis)**  
+A research project for algorithm characterization used to call CNVs using methylation data.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Specializations:**  
+Machine Learning • Statistical Analysis • Bioinformatics • Genomic Data Analysis
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=c9d1d9)
+
+---
+
+## 🎲 Fun Facts
+
+- I've been an avid D&D player for 5 years—always ready to roll for initiative!
+- My favorite video games are Civ 6 and Cyberpunk 2077
+- **Book recommendation:** *The Egg* by Andy Weir—a short story everyone should read
+
+---
+
+## 📫 Let's Connect
+
+**Email:** [eliza.kishan@mail.mcgill.ca](mailto:eliza.kishan@mail.mcgill.ca)
+
+---
+
+*Pronouns: she/her*
