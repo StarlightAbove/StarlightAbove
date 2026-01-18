@@ -52,7 +52,7 @@ An unified API to access biological databases, such as ENTREZ, Ensembl, CHEMDB, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Specializations:**  
-_Primary:_ Statistical Analysis • Bioinformatics 
+_Primary:_ Statistical Analysis • Bioinformatics    
 _Exploratory:_ Machine Learning • Genomic Data Analysis
 
 ---
