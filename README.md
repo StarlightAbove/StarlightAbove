@@ -15,10 +15,20 @@ I'm a bioinformatics researcher passionate about leveraging computational method
 - Software engineering best practices for reproducible research
 
 💼 **Open to Opportunities:**
-I'm seeking new opportunities starting May 2026 in bioinformatics, computational biology, or machine learning research roles.
+I'm seeking new opportunities starting May 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
 
 📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)**
+---
+## 🔬 Research Interests
 
+My current work focuses on leveraging methylation data for copy number variation detection, but I'm broadly interested in computational approaches that bridge genomics and translational medicine. Areas I'm particularly excited about include:
+
+- **Drug Discovery** - Using computational methods and genomic insights to identify therapeutic targets and optimize drug candidates
+- **Tissue Engineering & Synthesis** - Applying genomics to understand and guide tissue development and regeneration
+- **In-Silico Tissue Modeling** - Building computational models to simulate tissue behavior and predict responses to interventions
+- **Machine Learning in Genomics** - Developing robust algorithms for analyzing complex biological datasets
+
+I'm eager to explore opportunities that combine computational biology, machine learning, and applications with direct clinical or therapeutic impact.
 ---
 
 ## 🧬 Featured Project
