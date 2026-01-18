@@ -33,10 +33,13 @@ I'm eager to explore opportunities that combine computational biology, machine l
 
 ---
 
-## 🧬 Featured Project
+## 🧬 Featured Projects
 
 **[StarlightAbove/Analysis](https://github.com/StarlightAbove/Analysis)**  
 A research project for algorithm characterization used to call CNVs using methylation data.
+
+**[StarlightAbove/bioget](https://github.com/StarlightAbove/bioget)**
+An unified API to access biological databases, such as ENTREZ, Ensembl, CHEMDB, and others.
 
 ---
 
