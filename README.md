@@ -18,6 +18,7 @@ I'm a undergraduate bioinformatics researcher passionate about leveraging comput
 Seeking undergraduate research (with stipend), summer programs, or thesis opportunities starting May 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
 
 📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)**
+🌐 [Visit my website](elizakishan.com)
 
 ---
 ## 🔬 Research Interests
