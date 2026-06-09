@@ -1,6 +1,7 @@
 # Hi there, I'm Eliza Kishan 👋
 
-**Undergraduate Research Trainee** | Przybyl Lab, Research Institute of the McGill University Health Center
+**Undergraduate Research Trainee** | Burnier Lab, Research Institute of the McGill University Health Center
+**Former Bioinformatics Trainee**  | Przybyl Lab, Research Institute of the McGill University Health Center
 
 I'm a undergraduate bioinformatics researcher passionate about leveraging computational methods to advance our understanding of genomic variation. Currently, I'm investigating the use of methylation data for calling copy number variations (CNVs) and characterizing algorithmic performance, using leiomyoma and leiomyosarcoma as model cancers to determine focal vs wide-ranging CNV responses.
 
