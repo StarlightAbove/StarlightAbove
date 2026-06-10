@@ -59,13 +59,12 @@ An unified API to access biological databases, such as ENTREZ, Ensembl, CHEMDB, 
 _Primary:_ Statistical Analysis • Bioinformatics    
 _Exploratory:_ Machine Learning • Genomic Data Analysis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarlightAbove&theme=default&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove&layout=compact&theme=radical&hide=html,c%23,css)
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=StarlightAbove&count_private=true&show_icons=true&hide=contribs)
 
 ---
