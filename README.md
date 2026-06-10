@@ -64,7 +64,7 @@ _Exploratory:_ Machine Learning • Genomic Data Analysis
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove&layout=compact&theme=radical&hide=swift,c%23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightAbove&layout=compact&theme=radical&hide=html,c%23,css)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=StarlightAbove&count_private=true&show_icons=true&hide=contribs)
 
 ---
