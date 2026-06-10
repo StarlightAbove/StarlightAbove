@@ -21,7 +21,7 @@ Seeking undergraduate research (with stipend), summer programs, or thesis opport
 
 📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)** 
 
-🌐 [Visit my website](elizakishan.com)
+🌐 [Visit my website](https://elizakishan.com)
 
 ---
 ## 🔬 Research Interests
