@@ -17,7 +17,7 @@ I'm a undergraduate bioinformatics researcher passionate about leveraging comput
 - Software engineering best practices for reproducible research
 
 💼 **Open to Opportunities:**
-Seeking undergraduate research (with stipend), summer programs, or thesis opportunities starting May 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
+Seeking undergraduate research (with stipend) starting September 2026 in bioinformatics, computational biology, drug discovery, or machine learning research roles with translational impact.
 
 📄 **[View My CV](./CV-1.pdf)** | **[Download CV](https://github.com/StarlightAbove/StarlightAbove/raw/main/CV-1.pdf)** 
 
@@ -42,8 +42,8 @@ I'm eager to explore opportunities that combine computational biology, machine l
 **[StarlightAbove/Analysis](https://github.com/StarlightAbove/Analysis)**  
 A research project for algorithm characterization used to call CNVs using methylation data, supervised by Dr. Joanna Przybyl at the Przybyl Lab.
 
-**[StarlightAbove/bioget](https://github.com/StarlightAbove/bioget)**   
-An unified API to access biological databases, such as ENTREZ, Ensembl, CHEMDB, and others.
+**[jvb-lab/autosnv](https://github.com/jvb-lab/autosnv)**   
+An automated somatic variant processor for liquid biopsy, for which I provided automation code for the workflow.
 
 ---
 
