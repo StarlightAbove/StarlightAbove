@@ -1,4 +1,5 @@
 # Hi there, I'm Eliza Kishan 👋
+**Undergraduate Research Assistant** | Foulkes Lab, Research Institute of the McGill University Health Center
 
 **Undergraduate Research Trainee** | Burnier Lab, Research Institute of the McGill University Health Center
 
